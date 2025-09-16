@@ -3,15 +3,21 @@
 **Middle** Backend-разработчик | Магистрант **ИТМО** | Грантополучатель **ФСИ**
 
 Пишу код на Go, укрощаю базы данных и иногда балуюсь с Python 🐍.
+
 Заставляю LLM и бэкенд не просто дружить, а работать в одной команде 🚀.
-Собираю монолиты, мечтаю микросервисав, живу в кроличьей норе 🐇 (RabbitMQ) и сплю на контейнерах 🐳 (Docker).
+
+Собираю монолиты, мечтаю о микросервисах, живу в кроличьей норе 🐇 (RabbitMQ) и сплю на контейнерах 🐳 (Docker).
+
 Иногда измазываюсь фронтои, но чаще — подкручиваю винтики под капотом, чтобы всё летало 🏎️💨.
 
 **Middle** Backend Developer | Master’s student at **ITMO** | **FSI** Grant Holder
 
 I code in Go, tame databases, and occasionally conjure things with Python 🐍.
+
 I don’t just connect LLMs to the backend — I make them play on the same team 🚀.
+
 I build monoliths, dream of microservices, hang out in the rabbit hole 🐇 (RabbitMQ) and chill in containers 🐳 (Docker).
+
 Sometimes I poke at the frontend, but most of the time I’m fine-tuning the engines under the hood to make everything run faster 🏎️💨.
 
 ---
