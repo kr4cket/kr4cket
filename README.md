@@ -1,7 +1,7 @@
-## 👨‍💻 Обо мне | About me
+## Привет, я **Даниил Корешков** 👋
 
 🇷🇺  
-Привет! Я **Даниил Корешков** — Middle Backend-разработчик и магистрант **ИТМО**.  
+Middle Backend-разработчик и магистрант **ИТМО**.  
 Люблю **Go**, базы данных и балуюсь с **Python** 🐍.  
 Пишу монолиты, мечтаю о микросервисах, живу в кроличьей норе 🐇 (**RabbitMQ**) и отдыхаю в контейнерах 🐳 (**Docker**).  
 
@@ -67,4 +67,3 @@ I build monoliths, dream of microservices, live in the rabbit hole 🐇 (**Rabbi
 
 - 📧 [danielkoreshkov@gmail.com](mailto:danielkoreshkov@gmail.com)  
 - 💬 Telegram: [@Kr4ckeT](https://t.me/Kr4ckeT)  
-- 💼 [Хабр Карьера](https://career.habr.com/) _(если хочешь, вставлю прямую ссылку на твой профиль)_  
