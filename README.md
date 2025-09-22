@@ -15,8 +15,6 @@ I don’t just connect LLMs to the backend — I make them play on the same team
 I build monoliths, dream of microservices, hang out in the rabbit hole 🐇 (RabbitMQ) and chill in containers 🐳 (Docker). <br>
 Sometimes I poke at the frontend, but most of the time I’m fine-tuning the engines under the hood to make everything run faster 🏎️💨.
 
----
-
 ## 🛠️ Технологии | Tech Stack
 
 <p align="center">
@@ -33,8 +31,6 @@ Sometimes I poke at the frontend, but most of the time I’m fine-tuning the eng
   <img src="https://img.shields.io/badge/-HTML-FF5733?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
-
----
 
 ## 📊 GitHub Dashboard
 
@@ -59,8 +55,6 @@ Sometimes I poke at the frontend, but most of the time I’m fine-tuning the eng
   <!-- Серая зона -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr4cket&theme=tokyonight" width="100%"/>
 </p>
-
----
 
 ## 📬 Связаться со мной | Contact me
 
